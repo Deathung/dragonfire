@@ -1,0 +1,5 @@
+/Users/Moure/prog0307/Prog0307/Prog0307/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/Moure/prog0307/Prog0307/Prog0307/bin/Debug/Prog0307.exe.mdb
+/Users/Moure/prog0307/Prog0307/Prog0307/bin/Debug/Prog0307.exe
+/Users/Moure/prog0307/Prog0307/Prog0307/obj/x86/Debug/Prog0307.exe
+/Users/Moure/prog0307/Prog0307/Prog0307/obj/x86/Debug/Prog0307.exe.mdb
